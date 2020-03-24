@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
-* student_id:
+* first_name: Nicolas
+* last_name: Menager
+* student_id: 1
